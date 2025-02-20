@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🌱 I’m constantly learning and exploring new technologies in the fields of AI, ML, and cloud computing.
 - 👯 I’m looking to collaborate on open source projects and innovative tech solutions.
 - 💬 Ask me about anything related to software development, cloud computing, and AI.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [akhil01011@gmail.com](akhil01011@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and exploring the great outdoors.
+- ⚡ Fun fact: I love Gaming and exploring the great outdoors.
 
 ## 🛠️ My Skills
 
